@@ -44,7 +44,7 @@ Contact        : satyamgupta9302@gmail.com
 </h2>
 <p align="center">
     
-<img align="left" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" height="200px" width="350px"/>
+<!--<img align="left" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" height="200px" width="350px"/>-->
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-4B8BBE?style=for-the-badge&logo=c&logoColor=white" alt="C">
